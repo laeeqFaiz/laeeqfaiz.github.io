@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "H7583SU282.app.musey"
+        ],
+        "paths": [
+          "/home/entry/*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "H7583SU282.app.musey"
+    ]
+  }
+}
