@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ignicube.exa",
+      "sha256_cert_fingerprints": [
+        "DB:05:07:DA:05:41:04:75:43:6F:AC:5A:B3:F1:54:00:86:E8:9E:BA:B9:F0:F0:61:8D:4B:C2:8F:21:2B:64:7F"
+      ]
+    },
+    "path": "/home/entry/*"
+  }
+]
