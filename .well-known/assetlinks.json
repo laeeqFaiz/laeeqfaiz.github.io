@@ -1,15 +1,14 @@
 [
   {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
+    "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "com.ignicube.exa",
       "sha256_cert_fingerprints": [
+        "86:F8:38:8D:06:A4:CA:CC:1F:DB:76:BA:5D:AF:AA:17:28:7A:BE:EA:45:A4:24:54:40:6E:AF:36:0E:02:86:08",
+        "57:6C:69:FD:2B:8C:F0:DE:7D:FE:6E:2E:A1:1D:3D:59:18:F4:E4:C3:A0:7A:4F:AC:17:DA:0A:D5:86:35:F5:8A",
         "DB:05:07:DA:05:41:04:75:43:6F:AC:5A:B3:F1:54:00:86:E8:9E:BA:B9:F0:F0:61:8D:4B:C2:8F:21:2B:64:7F"
       ]
-    },
-    "path": "/home/entry/*"
+    }
   }
 ]
